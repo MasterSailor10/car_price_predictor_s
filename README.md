@@ -52,7 +52,7 @@ Algorithm Used: Linear Regression Dataset: Cleaned car price dataset (Cleaned Ca
 
 🔗 Live Deployment
 
-The application is deployed on Render. Try it out here: https://car-price-predictor-mhp.onrender.com
+The application is deployed on Render. Try it out here: https://car-price-predictor-ss.onrender.com
 
 🤝 Contribution
 
