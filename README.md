@@ -1,6 +1,6 @@
 🚗 Car Price Predictor
 
-🔗 Repository: MasterSailor10/car_price_predictor_p
+🔗 Repository: MasterSailor10/car_price_predictor_s
 
 🚀 Overview
 
@@ -12,7 +12,7 @@ The Car Price Predictor is a machine learning-based web application that estimat
 
 📂 Project Structure
 
-car_price_predictor_p/ │── templates/ # HTML templates for the web app
+car_price_predictor_s/ │── templates/ # HTML templates for the web app
 │── app.py # Flask web application
 │── Cleaned Car.csv # Preprocessed dataset
 │── LinearRegressionModel.pkl # Trained ML model
@@ -24,7 +24,7 @@ car_price_predictor_p/ │── templates/ # HTML templates for the web app
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/car_price_predictor_p.git cd car_price_predictor_p
+git clone https://github.com/MasterSailor10/car_price_predictor_s.git cd car_price_predictor_s
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
